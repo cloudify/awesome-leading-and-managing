@@ -114,6 +114,8 @@
 
 - [How to Identify and Address CTO Smells: Process](https://medium.com/cto-craft/how-to-identify-and-address-cto-smells-process-b9a4265cb9f0) - by Andy Skipper. Takeaway: "Smells" include poor hiring, the inability to frame technology challenges against business challenges, a lack of succession planning and/or technical vision and/or belief, insufficient focus on quality, and an inability to manage upwards or sideways.
 
+- [From 1 to infinity: how to scale your tech organization, build a great culture and keep your sanity](https://www.slideshare.net/federicof/from-1-to-infinity-how-to-scale-your-tech-organization-build-a-great-culture-and-keep-your-sanity) - by Federico Feroldi. Takeaway: as a technology leader, one of your most challenging tasks you have is to bootstrap a new tech organization and grow it to tens or even hundreds of people; there will be a lot of lessons to learn and ways you'll have to change at a personal and at a professional level; the biggest change in your mindset will be from thinking about technology, to thinking about people.   
+
 ### The VP of Engineering Role
 
 - [Hire a VP of Engineering](https://a16z.com/2017/05/26/hiring-vp-engineering-why-what/) - by Martin Casado. Takeaway: A VPE is responsible for product planning, building the engineering team and culture, ensuring execution, maintaining morale, delivering quality releases on time.
